@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&lines=Front-End+Developer+%7C+React+%7C+Tailwind+CSS;Always+Learning+%7C+Never+Give+Up!;Building+my+Dreams+with+Code+🔥" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1gLR29e64vff5VnR2Q/giphy.gif" alt="Welcome Gif" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on improving my **Front-End Development** skills  
