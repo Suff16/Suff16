@@ -10,12 +10,3 @@
 </p>
 <hr/>
 
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-ANDA]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-ANDA]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<hr/>
