@@ -37,12 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suff16&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 📫 Hubungi Saya
-- 💼 LinkedIn: [linkedin.com/in/username](#)
-- 📧 Email: [email@example.com](#)
-- 🌐 Portfolio: [websitekamu.com](#)
 
 ---
 
