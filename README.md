@@ -4,3 +4,6 @@ Passionate about building clean, fast, and user-friendly apps.
 📫 Let's connect with me:
 
 LinkedIn: www.linkedin.com/in/yusufsaputrah
+
+![GitHub Snake](https://github.com/Suff16/Suff16/blob/output/github-contribution-grid-snake.svg)
+
