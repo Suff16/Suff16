@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Cloud+Architecture;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## ✨ About Me
-- 🔧 **Professional Skills**: Specializing in  **Flutter**, **Dart**, **Python** and **Java** with experience in **Firebase**, **Node.js**, **Spring**, and **MongoDB**.
+- 🔧 **Professional Skills**: Specializing in  **Flutter**, **Dart** with experience in **Firebase**, **Node.js**, **Spring**, and **MongoDB**.
 - 🌐 **Freelancer**: Delivering high-quality, client-focused projects with a commitment to excellence.
 - 💡 **Driven by Curiosity**: Constantly learning and adapting to new challenges in the ever-evolving tech world.
 - 🎓 **Learning Journey**: Aspiring to master **AI**, **ML**, and **Backend Development** for innovative solutions.
@@ -45,17 +45,11 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   
   <!-- Cloud & DevOps -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
